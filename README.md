@@ -53,3 +53,13 @@ The Attention Legitimacy Index (ALI v0) measures the structural influence, refer
 
 ## Version Statement
 This document defines ALI version 0 (v0). Signal definitions and scoring methodology are canonical as of this specification. Future versions may introduce additional signals, refine weighting coefficients, or expand domain-specific adaptations. Core definitions remain authoritative unless explicitly superseded by subsequent versioned specifications.
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Attention Legitimacy Index v0",
+  "url": "https://attentionlegitimacyindex.com",
+  "description": "Canonical specification for ALI v0. Signals: Structural Consistency, Referential Density, Outcome Coherence.",
+  "version": "v0",
+  "creator": "Her Dominion"
+}
